@@ -1,3 +1,5 @@
+# This program calculates the largest of three user defined numbers
+
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 num3 = float(input("Enter third number: "))
